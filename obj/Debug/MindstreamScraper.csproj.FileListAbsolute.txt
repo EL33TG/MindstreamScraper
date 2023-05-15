@@ -1,0 +1,79 @@
+C:\Users\bboswell\source\repos\MindstreamScraper\MindstreamScraper\bin\Debug\MindstreamScraper.exe.config
+C:\Users\bboswell\source\repos\MindstreamScraper\MindstreamScraper\bin\Debug\MindstreamScraper.exe
+C:\Users\bboswell\source\repos\MindstreamScraper\MindstreamScraper\bin\Debug\MindstreamScraper.pdb
+C:\Users\bboswell\source\repos\MindstreamScraper\MindstreamScraper\obj\Debug\MindstreamScraper.Properties.Resources.resources
+C:\Users\bboswell\source\repos\MindstreamScraper\MindstreamScraper\obj\Debug\MindstreamScraper.csproj.GenerateResource.cache
+C:\Users\bboswell\source\repos\MindstreamScraper\MindstreamScraper\obj\Debug\MindstreamScraper.csproj.CoreCompileInputs.cache
+C:\Users\bboswell\source\repos\MindstreamScraper\MindstreamScraper\obj\Debug\MindstreamScraper.exe
+C:\Users\bboswell\source\repos\MindstreamScraper\MindstreamScraper\obj\Debug\MindstreamScraper.pdb
+C:\Users\bboswell\source\repos\MindstreamScraper\MindstreamScraper\obj\Debug\MindstreamScraper.ScraperMainForm.resources
+C:\Users\bboswell\source\repos\MindstreamScraper\MindstreamScraper\bin\Debug\HtmlAgilityPack.dll
+C:\Users\bboswell\source\repos\MindstreamScraper\MindstreamScraper\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\bboswell\source\repos\MindstreamScraper\MindstreamScraper\bin\Debug\HtmlAgilityPack.xml
+C:\Users\bboswell\source\repos\MindstreamScraper\MindstreamScraper\obj\Debug\MindstreamScraper.csproj.CopyComplete
+C:\Users\bboswell\source\repos\MindstreamScraper\MindstreamScraper\obj\Debug\MindstreamScraper.Results.resources
+C:\Users\bboswell\source\repos\MindstreamScraper\MindstreamScraper\obj\Debug\MindstreamScraper.About.resources
+C:\Users\bboswell\source\repos\MindstreamScraper\MindstreamScraper\obj\Debug\MindstreamScraper.SettingsMenu.resources
+C:\Users\bboswell\source\repos\MindstreamScraper\MindstreamScraper\obj\Debug\MindstreamScraper.ExclusionList.resources
+C:\Users\bboswell\source\repos\MindstreamScraper\MindstreamScraper\obj\Debug\MindstreamScraper.csprojAssemblyReference.cache
+C:\Users\bboswell\Documents\web-scraper\MindstreamScraper\bin\Debug\MindstreamScraper.exe.config
+C:\Users\bboswell\Documents\web-scraper\MindstreamScraper\bin\Debug\MindstreamScraper.exe
+C:\Users\bboswell\Documents\web-scraper\MindstreamScraper\bin\Debug\MindstreamScraper.pdb
+C:\Users\bboswell\Documents\web-scraper\MindstreamScraper\bin\Debug\HtmlAgilityPack.dll
+C:\Users\bboswell\Documents\web-scraper\MindstreamScraper\bin\Debug\System.Collections.Immutable.dll
+C:\Users\bboswell\Documents\web-scraper\MindstreamScraper\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\bboswell\Documents\web-scraper\MindstreamScraper\bin\Debug\HtmlAgilityPack.xml
+C:\Users\bboswell\Documents\web-scraper\MindstreamScraper\obj\Debug\MindstreamScraper.csproj.ResolveComReference.cache
+C:\Users\bboswell\Documents\web-scraper\MindstreamScraper\obj\Debug\MindstreamScraper.About.resources
+C:\Users\bboswell\Documents\web-scraper\MindstreamScraper\obj\Debug\MindstreamScraper.ExclusionList.resources
+C:\Users\bboswell\Documents\web-scraper\MindstreamScraper\obj\Debug\MindstreamScraper.ScraperMainForm.resources
+C:\Users\bboswell\Documents\web-scraper\MindstreamScraper\obj\Debug\MindstreamScraper.Properties.Resources.resources
+C:\Users\bboswell\Documents\web-scraper\MindstreamScraper\obj\Debug\MindstreamScraper.Results.resources
+C:\Users\bboswell\Documents\web-scraper\MindstreamScraper\obj\Debug\MindstreamScraper.SettingsMenu.resources
+C:\Users\bboswell\Documents\web-scraper\MindstreamScraper\obj\Debug\MindstreamScraper.SplashScreen.resources
+C:\Users\bboswell\Documents\web-scraper\MindstreamScraper\obj\Debug\MindstreamScraper.csproj.GenerateResource.cache
+C:\Users\bboswell\Documents\web-scraper\MindstreamScraper\obj\Debug\MindstreamScraper.csproj.CoreCompileInputs.cache
+C:\Users\bboswell\Documents\web-scraper\MindstreamScraper\obj\Debug\MindstreamScraper.csproj.CopyComplete
+C:\Users\bboswell\Documents\web-scraper\MindstreamScraper\obj\Debug\MindstreamScraper.exe
+C:\Users\bboswell\Documents\web-scraper\MindstreamScraper\obj\Debug\MindstreamScraper.pdb
+C:\Users\bboswell\Documents\web-scraper\MindstreamScraper\obj\Debug\MindstreamScraper.TestOnly.resources
+C:\Users\bboswell\Documents\web-scraper\MindstreamScraper\obj\Debug\MindstreamScraper.csprojAssemblyReference.cache
+C:\Users\bboswell\Documents\web-scraper\MindstreamScraper\obj\Debug\MindstreamScraper.SaveProgress.resources
+C:\Users\Brenden Boswell\Desktop\web-scraper\web-scraper\MindstreamScraper\bin\Debug\MindstreamScraper.exe.config
+C:\Users\Brenden Boswell\Desktop\web-scraper\web-scraper\MindstreamScraper\bin\Debug\MindstreamScraper.exe
+C:\Users\Brenden Boswell\Desktop\web-scraper\web-scraper\MindstreamScraper\bin\Debug\MindstreamScraper.pdb
+C:\Users\Brenden Boswell\Desktop\web-scraper\web-scraper\MindstreamScraper\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Brenden Boswell\Desktop\web-scraper\web-scraper\MindstreamScraper\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Brenden Boswell\Desktop\web-scraper\web-scraper\MindstreamScraper\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Brenden Boswell\Desktop\web-scraper\web-scraper\MindstreamScraper\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Brenden Boswell\Desktop\web-scraper\web-scraper\MindstreamScraper\obj\Debug\MindstreamScraper.csprojAssemblyReference.cache
+C:\Users\Brenden Boswell\Desktop\web-scraper\web-scraper\MindstreamScraper\obj\Debug\MindstreamScraper.csproj.ResolveComReference.cache
+C:\Users\Brenden Boswell\Desktop\web-scraper\web-scraper\MindstreamScraper\obj\Debug\MindstreamScraper.About.resources
+C:\Users\Brenden Boswell\Desktop\web-scraper\web-scraper\MindstreamScraper\obj\Debug\MindstreamScraper.ExclusionList.resources
+C:\Users\Brenden Boswell\Desktop\web-scraper\web-scraper\MindstreamScraper\obj\Debug\MindstreamScraper.ScraperMainForm.resources
+C:\Users\Brenden Boswell\Desktop\web-scraper\web-scraper\MindstreamScraper\obj\Debug\MindstreamScraper.Properties.Resources.resources
+C:\Users\Brenden Boswell\Desktop\web-scraper\web-scraper\MindstreamScraper\obj\Debug\MindstreamScraper.Results.resources
+C:\Users\Brenden Boswell\Desktop\web-scraper\web-scraper\MindstreamScraper\obj\Debug\MindstreamScraper.SaveProgress.resources
+C:\Users\Brenden Boswell\Desktop\web-scraper\web-scraper\MindstreamScraper\obj\Debug\MindstreamScraper.SettingsMenu.resources
+C:\Users\Brenden Boswell\Desktop\web-scraper\web-scraper\MindstreamScraper\obj\Debug\MindstreamScraper.SplashScreen.resources
+C:\Users\Brenden Boswell\Desktop\web-scraper\web-scraper\MindstreamScraper\obj\Debug\MindstreamScraper.TestOnly.resources
+C:\Users\Brenden Boswell\Desktop\web-scraper\web-scraper\MindstreamScraper\obj\Debug\MindstreamScraper.csproj.GenerateResource.cache
+C:\Users\Brenden Boswell\Desktop\web-scraper\web-scraper\MindstreamScraper\obj\Debug\MindstreamScraper.csproj.CopyComplete
+C:\Users\Brenden Boswell\Desktop\web-scraper\web-scraper\MindstreamScraper\obj\Debug\MindstreamScraper.exe
+C:\Users\Brenden Boswell\Desktop\web-scraper\web-scraper\MindstreamScraper\obj\Debug\MindstreamScraper.pdb
+C:\Users\bboswell\Desktop\Projectss\MindstreamScraper\obj\Debug\MindstreamScraper.csproj.AssemblyReference.cache
+C:\Users\bboswell\Desktop\Projectss\MindstreamScraper\obj\Debug\MindstreamScraper.csproj.SuggestedBindingRedirects.cache
+C:\Users\bboswell\Desktop\Projectss\MindstreamScraper\obj\Debug\MindstreamScraper.csproj.ResolveComReference.cache
+C:\Users\bboswell\Desktop\Projectss\MindstreamScraper\obj\Debug\MindstreamScraper.About.resources
+C:\Users\bboswell\Desktop\Projectss\MindstreamScraper\obj\Debug\MindstreamScraper.ExclusionList.resources
+C:\Users\bboswell\Desktop\Projectss\MindstreamScraper\obj\Debug\MindstreamScraper.ScraperMainForm.resources
+C:\Users\bboswell\Desktop\Projectss\MindstreamScraper\obj\Debug\MindstreamScraper.Properties.Resources.resources
+C:\Users\bboswell\Desktop\Projectss\MindstreamScraper\obj\Debug\MindstreamScraper.Results.resources
+C:\Users\bboswell\Desktop\Projectss\MindstreamScraper\obj\Debug\MindstreamScraper.SaveProgress.resources
+C:\Users\bboswell\Desktop\Projectss\MindstreamScraper\obj\Debug\MindstreamScraper.SettingsMenu.resources
+C:\Users\bboswell\Desktop\Projectss\MindstreamScraper\obj\Debug\MindstreamScraper.SplashScreen.resources
+C:\Users\bboswell\Desktop\Projectss\MindstreamScraper\obj\Debug\MindstreamScraper.TestOnly.resources
+C:\Users\bboswell\Desktop\Projectss\MindstreamScraper\obj\Debug\MindstreamScraper.csproj.GenerateResource.cache
+C:\Users\bboswell\Desktop\Projectss\MindstreamScraper\obj\Debug\MindstreamScraper.csproj.CoreCompileInputs.cache
+C:\Users\bboswell\Desktop\Projectss\MindstreamScraper\obj\Debug\MindstreamScraper.exe
+C:\Users\bboswell\Desktop\Projectss\MindstreamScraper\obj\Debug\MindstreamScraper.pdb

@@ -1,0 +1,8 @@
+>>>> Custom Errors
+Begin--- 7/30/2020 6:07:45 PM
+Error Message: The main URL link you entered, [http://www.mindstreaminteractive.com] is being redirected with error code [307] ....
+End--- 7/30/2020 6:07:45 PM
+>>>> Custom Errors
+Begin--- 7/30/2020 6:09:07 PM
+Error Message: The main URL link you entered, [http://www.mindstreaminteractive.com] is being redirected with error code [307] ....
+End--- 7/30/2020 6:09:07 PM
